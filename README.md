@@ -29,3 +29,6 @@
 14. Shape of data
 
 15. The Emphirical Rule
+
+
+![alt text](Picture 1 (Pareto Analysis).png.jpg)
