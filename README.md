@@ -1,31 +1,31 @@
 # Days-of-Learning
 
-Statistics
+1. Statistics
 
-Data -> Statistics -> Knowledge
+2. Data -> Statistics -> Knowledge
 
-Variables
+3. Variables
 
-Pareto Analysis
+4. Pareto Analysis
 
-Measures of central tendency, spread & shape - 1
+5. Measures of central tendency, spread & shape - 1
 
-Median
+6. Median
 
-Mode
+7. Mode
 
-Quartile
+8. Quartile
 
-Deciles
+9. Deciles
 
-Percentile
+10. Percentile
 
-Quantifying the spread
+11. Quantifying the spread
 
-The Interquartile range
+12. The Interquartile range
 
-Measurement of central tendency spread and shape -2
+13. Measurement of central tendency spread and shape -2
 
-Shape of data
+14. Shape of data
 
-The Emphirical Rule
+15. The Emphirical Rule
