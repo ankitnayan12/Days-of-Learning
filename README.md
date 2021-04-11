@@ -31,4 +31,4 @@
 15. The Emphirical Rule
 
 
-![alt text](Picture 1 (Pareto Analysis).png.jpg)
+![alt text](Picture 1 (Pareto Analysis).jpg)
